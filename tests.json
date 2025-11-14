@@ -1,0 +1,9 @@
+{
+    "Test": {
+        "1": {
+            "test_id": "1213",
+            "file_path": "BQACAgIAAxkBAAN4aRbETWerfGuvKJ-7tWdli7uEBb0AAlXGAAJZULhIRu7fOcfsQvE2BA",
+            "test_answer": "1:a:10\n2:b:5\n3:c:5\n4:d:10\n5:samarkand:20\n6:1997-yil:20\n \n  "
+        }
+    }
+}

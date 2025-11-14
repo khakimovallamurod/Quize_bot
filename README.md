@@ -1,1 +1,1 @@
-# Quize_bot
+# uzfipi_bilimdoni_bot
